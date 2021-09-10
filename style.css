@@ -1,0 +1,92 @@
+    /* Remove the navbar's default margin-bottom and rounded borders */ 
+    .navbar {
+        margin-bottom: 0;
+        border-radius: 0;
+      }
+      
+      /* Add a gray background color and some padding to the footer */
+      footer {
+        background-color: #f2f2f2;
+        padding: 25px;
+      }
+
+      #project1{
+        background-image: url(project-1.png);
+      }
+
+      #project2{
+        background-image: url(project-2.png);
+      }
+
+      #project3{
+        background-image: url(project-3.png);
+      }
+
+      #project4{
+        background-image: url(project-4.png);
+      }
+
+      #project5{
+        background-image: url(project-5.png);
+      }
+
+      #project6{
+        background-image: url(project-6.png);
+      }
+
+      #project7{
+        background-image: url(project7-.png);
+      }
+      #project8{
+        background-image: url(project-8.png);
+      }
+
+      #project9{
+        background-image: url(project-9.png);
+      }
+      
+      #project10{
+        background-image: url(project-10.png);
+      }
+
+      #project11{
+        background-image: url(project-11-.png);
+      }
+
+      #project12{
+        background-image: url(project-12.png);
+      }
+
+      #project13{
+        background-image: url(project-13.png);
+      }
+
+      #project14{
+        background-image: url(project-14.png);
+      }
+
+      #project15{
+        background-image: url(project-15.png);
+      }
+
+      #project16{
+        background-image: url(project-16.png);
+      }
+
+      #project17{
+        background-image: url(project-17.png);
+      }
+
+      #project18{
+        background-image: url(project-18.png);
+      }
+
+      #project19{
+        background-image: url(project-19.png);
+      }
+
+      a{
+        width: 350px;
+        height: 300px;
+      }
+
