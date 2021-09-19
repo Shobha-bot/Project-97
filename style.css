@@ -10,6 +10,11 @@
         padding: 25px;
       }
 
+a {
+    width: 50%;
+    height: 50%
+}
+
       #project1{
         background-image: url(project-1.png);
       }
